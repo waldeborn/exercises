@@ -48,10 +48,77 @@ Fundera över följande: När vi försöker kompilera koden så får vi ett felm
 Skriv om koden så att den blir rätt!
 
 ## Switch
-## Övningar 1
+## Övning 1
 
 Banksimulatorn
 -	Skriv ett program som simulerar en bank. Man ska kunna sätta in pengar och ta ut pengar, samt kolla saldo. Detta görs via en meny som du ska göra med switch-sats. Observera att du bör jobba med loopar i denna uppgift!
+
+## For-loopar
+## Övning 1
+
+Skriv ett program som en gång loopar igenom talen 1-10 och skriver ut dem på skärmen.
+
+## Övning 2
+
+Skriv ett program som räknar baklänges från 40-30 och skriver ut dem på skärmen.
+
+## Arrays
+## OBS! I dessa övningar ska du använda dig av undantagshantering i form av try & catch
+
+## Övning 1
+
+1.	Skriv ett program som hämtar flera tal från användaren, och som sedan skriver ut talen samt deras sammanlagda summa. 
+Ni kan välja om ni vill använda hel eller decimaltal men ni måste använda en vektor för att spara undan talen. Använd for loop! 
+
+## Övning 2 
+
+Alla namn (del 1)
+-	Skapa en string array med fem element. Användaren får mata in fem namn via en for-loop. Programmet skriver sedan ut dessa namn med hjälp av en for-loop. 
+
+Alla namn (del 2)
+-	Efter att alla namn skrivits ut, ska användaren kunna skriva ett index och därefter ett annat namn. Personen på detta index i arrayen byts då ut och alla namn skrivs ut igen. Om användaren istället skriver ”q” eller ”Q” så avslutas programmet direkt. 
+
+## Övning 3
+
+3.	Väderstationen
+-	Denna övning påminner om den förra, men man skriver inte i början hur många mätningar som ska göras. Allt sköts via en meny istället.
+När man väljer att ta bort en temperaturmätning, så anger man vilken mätning man vill ta bort med hjälp av index. 
+Bestäm själv om du använder for eller foreach. Motivera gärna ditt val i koden. 
+
+## Metoder
+## Övning 1
+
+Skapa en metod Hello() som tar en string variabel som indata och skriver ut texten med ett annat meddelande
+
+## Övning 2
+
+Skapa en metod som tar in två string variabler, lägger samman dessa och returnerar som en sträng. (Tex. Strängarna ”Hej på dig!” och ” Hur mår du?” blir ”Hej på dig! Hur mår du?”.
+
+## Övning 3
+
+Skapa metoden Addera() som tar in två heltal och returnerar summan.
+
+## Övning 4
+
+Skapa en metod som lägger till momsen på en viss summa. Antag att momsen är 25%.
+
+## Övning 5
+
+Fortsättning på föregående övning. Gör om funktionen så att man i metodanropet (via parameterlistan) får ange vad momsen ligger på.
+
+## Övning 6
+
+Skapa metoden ToPercentage() som tar in ett decimaltal och returnerar ett heltal.
+
+## Övning 7
+
+Skapa en metod som kontrollerar om man är myndig. Metoden ska ta in ett heltal och returnera true eller false.
+
+## Övning 8 
+
+Skapa ett program med menyval. I menyn får man välja att exekvera olika uppgifter. Alla menyalternativ ska ligga i metoder. 
+Du kan ta någon uppgift från tidigare övningar men försök att hitta på egna metoder!
+
 
 
 
