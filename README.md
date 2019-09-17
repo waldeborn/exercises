@@ -1,7 +1,7 @@
 # exercises
 Övningar för er som inte har annat för er!
 
-## Variabler
+# Variabler
 ## Övning 1
 
 Summan av två tal
@@ -27,7 +27,7 @@ Char
 Inmatning och utmatning 
 -	I denna övning ska du göra ett program som låter användaren mata in sitt namn. Därefter hälsar du användaren välkommen. Du ska sedan låta användaren mata in sin ålder och spara undan den i lämplig variabel. Räkna sedan ut antalet dagar användaren har levt utifrån det angivna åldern. Presentera detta för användaren.
 
-## If-satsen
+# If-satsen
 ## Övning 1
 
 Kontrollera värdet (del 1)
@@ -47,13 +47,13 @@ Felaktig if-sats
 Fundera över följande: När vi försöker kompilera koden så får vi ett felmeddelande, varför får vi just detta felmeddelande?
 Skriv om koden så att den blir rätt!
 
-## Switch
+# Switch
 ## Övning 1
 
 Banksimulatorn
 -	Skriv ett program som simulerar en bank. Man ska kunna sätta in pengar och ta ut pengar, samt kolla saldo. Detta görs via en meny som du ska göra med switch-sats. Observera att du bör jobba med loopar i denna uppgift!
 
-## For-loopar
+# For-loopar
 ## Övning 1
 
 Skriv ett program som en gång loopar igenom talen 1-10 och skriver ut dem på skärmen.
@@ -62,7 +62,7 @@ Skriv ett program som en gång loopar igenom talen 1-10 och skriver ut dem på s
 
 Skriv ett program som räknar baklänges från 40-30 och skriver ut dem på skärmen.
 
-## Arrays
+# Arrays
 ## OBS! I dessa övningar ska du använda dig av undantagshantering i form av try & catch
 
 ## Övning 1
@@ -85,7 +85,7 @@ Alla namn (del 2)
 När man väljer att ta bort en temperaturmätning, så anger man vilken mätning man vill ta bort med hjälp av index. 
 Bestäm själv om du använder for eller foreach. Motivera gärna ditt val i koden. 
 
-## Metoder
+# Metoder
 ## Övning 1
 
 Skapa en metod Hello() som tar en string variabel som indata och skriver ut texten med ett annat meddelande
