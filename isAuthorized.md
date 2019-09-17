@@ -8,3 +8,7 @@ korrekt. Om användaren inte lyckades ska programmet låta henne försöka fyra 
 Tips 1: ni bör hålla räkningen på hur många försök användaren hittils har förbrukat.
 
 Tips 2: använd loopar.
+
+## Utöka övningen
+
+Gör så att ordningen användaren matar in lösenorden i inte spelar någon roll - om lösenorden är “piggy”, “snuff” och “bark” så ska ordningen “snuff”,”bark”,”piggy” också accepteras.
